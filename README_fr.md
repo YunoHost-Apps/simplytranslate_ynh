@@ -18,7 +18,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 L'interface du moteur SimplyTranslate, que vous pouvez utiliser pour la traduction de nombreux moteurs de traduction, comprend les moteurs DeepL, Reverso, ICIBA, Google Translate et LibreTranslate (dont l'instance de récupération de LibreTranslate peut être configurée).
 
-**Version incluse :** 2023.4.9~ynh3
+**Version incluse :** 2023.12.19~ynh1
 
 ## Captures d’écran
 
@@ -31,7 +31,7 @@ L'interface du moteur SimplyTranslate, que vous pouvez utiliser pour la traducti
 ## Documentations et ressources
 
 * Site officiel de l’app : <https://simplytranslate.org/>
-* Dépôt de code officiel de l’app : <https://codeberg.org/SimpleWeb/SimplyTranslate-Web>
+* Dépôt de code officiel de l’app : <https://codeberg.org/ManeraKai/simplytranslate>
 * YunoHost Store: <https://apps.yunohost.org/app/simplytranslate>
 * Signaler un bug : <https://github.com/YunoHost-Apps/simplytranslate_ynh/issues>
 
